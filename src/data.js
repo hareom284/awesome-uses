@@ -87,6 +87,23 @@ module.exports = [
     ],
   },
   {
+    name: 'Zaw Zaw Win',
+    description: 'Developer',
+    url: 'https://zawzawwinucsl.imfast.io',
+    twitter: '@zawzawwin11e',
+    emoji: '🤗',
+    country: '🇲🇲',
+    computer: 'linux',
+    phone: 'android',
+    tags: [
+      'Web Development',
+      'Front End',
+      'PHP',
+      'Python',
+      
+    ],
+  },
+  {
     name: 'Kieran Osgood',
     description: 'Full stack developer. Curiosity in all.',
     url: 'https://osgood.dev/uses/',
